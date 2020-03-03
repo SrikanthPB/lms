@@ -7,3 +7,5 @@ I am making changes related to child branch
 feature2020
 
 making changes in child
+
+making changes in my master branch
