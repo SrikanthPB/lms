@@ -9,4 +9,6 @@ feature2020
 making changes in child
 
 making changes in my master branch
+ 
+changes related to master
 
